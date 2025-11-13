@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="mailto:lakshmanmadamanchi45@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
   </a>
   <a href="https://linkedin.com/in/lakshman-madamanchi" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -43,34 +43,34 @@ I specialize in **data storytelling**, **automation**, and **dashboard design** 
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Tech Stack  
 
-### 💻 Languages & Querying
-<p align="left">
+### 💻 Languages & Querying  
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
 
-### 📊 Visualization & BI Tools
-<p align="left">
+### 📊 Visualization & BI Tools  
+<p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Seaborn-008080?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-### 🧩 Tools & Platforms
-<p align="left">
+### 🧩 Tools & Platforms  
+<p align="center">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/>
 </p>
 
 ---
 
-## 🎓 Education
+## 🎓 Education  
 
 🎓 **B.Tech in Computer Science and Engineering**  
 📍 *Vignan Institute of Technology and Science* (2021 – 2025)  
@@ -78,19 +78,19 @@ I specialize in **data storytelling**, **automation**, and **dashboard design** 
 
 ---
 
-## 💼 Internship Experience
+## 💼 Internship Experience  
 
 ### 🔹 Data Analytics Intern — *AICTE | Microsoft | SAP*  
 📅 Feb 2025 – Apr 2025  
 - Designed **interactive analytics dashboards** using Microsoft Cloud & SAP BI.  
-- Automated **data pipelines** improving refresh speed by **25%**.  
-- Worked in **Agile teams** converting business problems into data-driven insights.  
+- Automated **data pipelines**, improving refresh speed by **25%**.  
+- Worked in **Agile teams**, converting business problems into data-driven insights.  
 
 ---
 
-## 🧠 Projects
+## 🧠 Projects  
 
-### 📈 Employee Performance Analytics
+### 📈 Employee Performance Analytics  
 **Tech:** Python · pandas · matplotlib · seaborn  
 - Analyzed **5,000+ employee records** for key retention and performance drivers.  
 - Built visual HR dashboards that informed executive decisions.  
@@ -98,7 +98,7 @@ I specialize in **data storytelling**, **automation**, and **dashboard design** 
 
 ---
 
-### 🛍️ E-commerce Sales Dashboard
+### 🛍️ E-commerce Sales Dashboard  
 **Tech:** Power BI · SQL · Excel  
 - Created a **real-time Power BI dashboard** tracking revenue & customer trends.  
 - Optimized SQL queries to enable **auto-refresh** and faster reporting.  
@@ -106,7 +106,7 @@ I specialize in **data storytelling**, **automation**, and **dashboard design** 
 
 ---
 
-### 🔐 Phishing Website Detection (ML)
+### 🔐 Phishing Website Detection (ML)  
 **Tech:** Python · Flask · XGBoost · MySQL  
 - Developed a **96% accurate model** to detect phishing websites.  
 - Deployed via a **Flask web app** for real-time predictions.  
@@ -114,9 +114,9 @@ I specialize in **data storytelling**, **automation**, and **dashboard design** 
 
 ---
 
-## 🏅 Certifications
+## 🏅 Certifications  
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Deloitte-Data%20Analytics%20Certified-0077B5?style=for-the-badge&logo=deloitte&logoColor=white"/>
   <img src="https://img.shields.io/badge/IBM-Data%20Science%20101-054ADA?style=for-the-badge&logo=ibm&logoColor=white"/>
   <img src="https://img.shields.io/badge/HackerRank-Python%20(Advanced)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
@@ -125,27 +125,27 @@ I specialize in **data storytelling**, **automation**, and **dashboard design** 
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements  
 
 🥉 **3rd Place** — *Digital India Innovative Project Expo 2024*  
 🏅 Recognized for developing a **data-driven business solution** with measurable impact.  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Lakshman001l&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshman001l&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshman001l&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🧰 Soft Skills
+## 🧰 Soft Skills  
 
 | Skill | Description |
 |-------|--------------|
@@ -156,11 +156,11 @@ I specialize in **data storytelling**, **automation**, and **dashboard design** 
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect with Me  
 
 <p align="center">
   <a href="mailto:lakshmanmadamanchi45@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
   </a>
   <a href="https://linkedin.com/in/lakshman-madamanchi" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -171,11 +171,7 @@ I specialize in **data storytelling**, **automation**, and **dashboard design** 
 </p>
 
 <p align="center">
-  📧 <a href="mailto:lakshmanmadamanchi45@gmail.com">lakshmanmadamanchi45@gmail.com</a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=brightgreen&style=for-the-badge" alt="views"/>
+  <img src="https://komarev.com/ghpvc/?username=Lakshman001l&label=Profile+Views&color=brightgreen&style=for-the-badge" alt="views"/>
 </p>
 
 <h3 align="center">⭐ “Data doesn’t lie — it just needs someone who knows how to make it talk.” ⭐</h3>
