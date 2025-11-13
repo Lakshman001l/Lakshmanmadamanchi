@@ -1,64 +1,71 @@
 <!-- ========================================================= -->
-<!-- 🚀 Lakshman Madamanchi | Data Analyst | Machine Learning -->
+<!-- 🚀 Lakshman Madamanchi | Junior Data Analyst | BI & ML -->
 <!-- ========================================================= -->
 
 <h1 align="center">👋 Hey, I'm <span style="color:#0077B5;">Lakshman Madamanchi</span></h1>
-<h3 align="center">Data Analytics • Business Intelligence • Machine Learning</h3>
 
 <p align="center">
-  <a href="mailto:lakshmanmadamanchi45@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00C9A7&width=500&lines=Data+Analyst+%7C+Business+Intelligence+%7C+ML+Enthusiast;Turning+Data+into+Actionable+Insights;Transforming+Numbers+into+Stories;Always+Learning+%26+Optimizing+Workflows" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="mailto:lakshmanmadamanchi45@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
   </a>
-  <a href="https://linkedin.com/in/lakshman-madamanchi">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/lakshman-madamanchi" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" />
+  <a href="#" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Hyderabad,%20India-4285F4?style=for-the-badge&logo=google-maps&logoColor=white" />
+  <a href="#" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Hyderabad,%20India-4285F4?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" alt="Data Analyst Animation"/>
 </p>
 
 ---
 
 ## 💡 About Me
 
-I’m **Lakshman Madamanchi**, a **Data Analytics professional** with a passion for converting raw, messy data into clear, actionable insights that **power smarter decisions**.  
-I don’t just visualize numbers — I **tell data stories** that explain the “why” behind every trend.
+I’m **Lakshman Madamanchi**, a passionate **Junior Data Analyst** who loves turning chaos into clarity through data.  
+I specialize in **data storytelling**, **automation**, and **dashboard design** that drives business impact — not just pretty visuals.  
 
-I specialize in:
-- Building **insightful dashboards** that executives actually use.
-- Writing **efficient SQL and Python scripts** that make data pipelines run smoother.
-- Turning analytics into **business growth**.
+💬 I thrive on making data **understandable**, **actionable**, and **insightful**.  
+⚡ Curious mind + analytical thinking = data solutions that make sense.  
 
-📊 Data is only as powerful as the clarity behind it — that’s where I come in.
+> “Data tells a story — I make sure everyone understands it.”
 
 ---
 
-## ⚙️ Tech Arsenal
+## ⚙️ Tech Stack
 
 ### 💻 Languages & Querying
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
 
-### 📊 Data Visualization & BI
+### 📊 Visualization & BI Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-008080?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-008080?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ### 🧩 Tools & Platforms
 <p align="left">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/>
 </p>
 
 ---
@@ -67,7 +74,7 @@ I specialize in:
 
 🎓 **B.Tech in Computer Science and Engineering**  
 📍 *Vignan Institute of Technology and Science* (2021 – 2025)  
-**Core Courses:** Data Analytics · Machine Learning · Cloud Computing · Statistics · Database Systems
+**Core Courses:** Data Analytics · Machine Learning · Cloud Computing · Database Systems · Statistics  
 
 ---
 
@@ -75,45 +82,45 @@ I specialize in:
 
 ### 🔹 Data Analytics Intern — *AICTE | Microsoft | SAP*  
 📅 Feb 2025 – Apr 2025  
-- Developed **cloud-based analytics dashboards** integrating Microsoft Cloud & SAP BI.  
-- Automated data pipelines and reporting, improving refresh speeds by **25%**.  
-- Worked in **Agile teams** to convert business requirements into analytics-ready modules.
+- Designed **interactive analytics dashboards** using Microsoft Cloud & SAP BI.  
+- Automated **data pipelines** improving refresh speed by **25%**.  
+- Worked in **Agile teams** converting business problems into data-driven insights.  
 
 ---
 
-## 🧠 Featured Projects
+## 🧠 Projects
 
 ### 📈 Employee Performance Analytics
 **Tech:** Python · pandas · matplotlib · seaborn  
-- Analyzed **5,000+ employee records** to identify retention and performance patterns.  
-- Built KPI dashboards to guide HR decisions.  
-- Automated cleaning & visualization scripts — cutting manual work by **40%**.
+- Analyzed **5,000+ employee records** for key retention and performance drivers.  
+- Built visual HR dashboards that informed executive decisions.  
+- Automated reporting — reducing manual effort by **40%**.  
 
 ---
 
 ### 🛍️ E-commerce Sales Dashboard
 **Tech:** Power BI · SQL · Excel  
-- Designed an **interactive Power BI dashboard** tracking regional performance and revenue trends.  
-- Automated SQL refresh pipelines, improving update efficiency by **30%**.  
-- Delivered insights that shaped product and marketing decisions.
+- Created a **real-time Power BI dashboard** tracking revenue & customer trends.  
+- Optimized SQL queries to enable **auto-refresh** and faster reporting.  
+- Highlighted KPIs that improved marketing ROI.  
 
 ---
 
-### 🧠 Phishing Website Detection (ML)
+### 🔐 Phishing Website Detection (ML)
 **Tech:** Python · Flask · XGBoost · MySQL  
-- Built a **96% accurate model** for phishing website detection.  
-- Deployed via Flask dashboard for **real-time predictions**.  
-- Enhanced transparency using **feature importance** for model interpretability.
+- Developed a **96% accurate model** to detect phishing websites.  
+- Deployed via a **Flask web app** for real-time predictions.  
+- Explained model results with **feature importance visualization**.  
 
 ---
 
 ## 🏅 Certifications
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Deloitte-Data%20Analytics%20Certified-0077B5?style=for-the-badge&logo=deloitte&logoColor=white" />
-  <img src="https://img.shields.io/badge/IBM-Data%20Science%20101-054ADA?style=for-the-badge&logo=ibm&logoColor=white" />
-  <img src="https://img.shields.io/badge/HackerRank-Python%20(Advanced)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  <img src="https://img.shields.io/badge/HackerRank-SQL%20(Advanced)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deloitte-Data%20Analytics%20Certified-0077B5?style=for-the-badge&logo=deloitte&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IBM-Data%20Science%20101-054ADA?style=for-the-badge&logo=ibm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HackerRank-Python%20(Advanced)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HackerRank-SQL%20(Advanced)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </p>
 
 ---
@@ -121,7 +128,20 @@ I specialize in:
 ## 🏆 Achievements
 
 🥉 **3rd Place** — *Digital India Innovative Project Expo 2024*  
-Recognized for developing a **data-driven solution** delivering measurable business value.
+🏅 Recognized for developing a **data-driven business solution** with measurable impact.  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
@@ -129,42 +149,33 @@ Recognized for developing a **data-driven solution** delivering measurable busin
 
 | Skill | Description |
 |-------|--------------|
-| **Data Storytelling** | Transforming analytics into clear narratives for decision-makers. |
-| **Problem Solving** | Structuring and breaking down complex data challenges. |
-| **Collaboration** | Working cross-functionally in fast-paced Agile setups. |
-| **Continuous Learning** | Always upgrading in Data Science, BI, and ML Ops. |
-
----
-
-## 🌍 Languages
-
-**English** · **Telugu** · **Hindi**
-
----
-
-## ⚡ Beyond the Screen
-
-☕ Coffee & clean datasets = perfect combo  
-📚 Always exploring **MLOps**, **Cloud Analytics**, and **AI in Business Intelligence**  
-📊 Believe in data that *explains, not confuses*  
+| **Data Storytelling** | Turning analytics into stories that influence decisions. |
+| **Problem Solving** | Structuring data challenges with logical clarity. |
+| **Collaboration** | Working cross-functionally in Agile setups. |
+| **Continuous Learning** | Always growing in BI, ML, and data engineering. |
 
 ---
 
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:lakshmanmadamanchi45@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:lakshmanmadamanchi45@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
   </a>
-  <a href="https://linkedin.com/in/lakshman-madamanchi">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/lakshman-madamanchi" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-000000?style=for-the-badge&logo=about.me&logoColor=white" />
+  <a href="#" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
----
+<p align="center">
+  📧 <a href="mailto:lakshmanmadamanchi45@gmail.com">lakshmanmadamanchi45@gmail.com</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=brightgreen&style=for-the-badge" alt="views"/>
+</p>
 
 <h3 align="center">⭐ “Data doesn’t lie — it just needs someone who knows how to make it talk.” ⭐</h3>
-
